@@ -3,7 +3,7 @@
 Escreva trechos de códigos que justiquem a necessidade da existencia dos temas abaixo em a objetos, se necessário compare com programçaõ funcional para justificativa, adicione ao topo de seus arquivos comentários que justifiquem a abordagem tomada na solução (para cada tópico faça duas soluções diferentes):
   
   1. Classes e objetos  
-     [link1]()  
+     [link1](https://www.typescriptlang.org/play/?#code/PTAECkFUGUBUEkBi8DCBBBA1NAuAUCKALQmlnkWVEFgCmAzgC62gDGAzwCYCWA5gPahOtALb8AdkwBOAQ1BzxtVg3rdOM4ULm0AHtyYAr8a25zNrADYz69BqBb8ARgCtajfvQB0NGqDRsrGxYZRgBXOVZ+MVBQkVAxC00pBgAHCXoAQ4A3WgtQNKkhWgAzbnFuQoBHcP15RiluR1D3entfSJECxhkRWnEW0HdODyKcuLSbUIrvQgARFTli-ikRbSzubrFW5JS3bgBzgGPBcy4+fgAaNj76mQtuAC8ekeTeWVbNRV52E0FaX14Mlk-W4W1A1RYQ2s8laZSYACPjKZWhN6OE4nJevRVvZpM1QrJvHg8JZrK00BZQuJBABvPCgBlsdL1UKsdxSAAU9MZPJSoUc91YoGpvRwoGkZV4F25PIZfIF3CF1O6YvEsUctCkMtAAEpQDSAL7EnkyFJSfhZDT8Dk6sWOfj8Cy0GTifXannJMJSV2MAAW+k8yrkAD4ALygADs2qNRpJzPklOpAEZQOHFAB3PyJ60AInA-GOOauAA4dXHJIwE1T+AAmVPC2iZinVjk5gCyQNMRdAADYy+X6I7aJ4LPxeBy7tWk55TebLcMbWXIpIhyOxxPszWZ2aLVbF0A)  
   [link2]()   
 0. Atributos e métodos  
        [link1]()  
